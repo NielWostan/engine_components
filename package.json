@@ -44,6 +44,7 @@
   },
   "dependencies": {
     "@popperjs/core": "2.11.8",
+    "build": "^0.1.4",
     "camera-controls": "2.7.3",
     "dexie": "^3.2.3",
     "dxf-writer": "^1.18.4",
@@ -54,7 +55,8 @@
     "stats.js": "^0.17.0",
     "three-mesh-bvh": "0.7.0",
     "top-tool-package-reader": "0.0.3",
-    "unzipit": "^1.4.3"
+    "unzipit": "^1.4.3",
+    "vercel": "^34.2.0"
   },
   "peerDependencies": {
     "bim-fragment": "1.5.0",
